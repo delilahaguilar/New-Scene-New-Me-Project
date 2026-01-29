@@ -1,0 +1,8 @@
+------------------------------------------------------------------------------------------------------
+What I prompted: I asked ChatGPT how to fix my errors:"how do I fix my code when this is what it says:"
+
+------------------------------------------------------------------------------------------------------
+What Solution I recieved: What i was missing in my first issue was closing my private string in LastYear class. 
+The next issue I encountered was calling methods that didn't exist
+
+------------------------------------------------------------------------------------------------------
